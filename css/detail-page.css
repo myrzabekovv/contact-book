@@ -1,0 +1,42 @@
+.detail-page .primary-btn {
+  width: 100%;
+}
+
+.detail-page .edit-btn {
+  margin-bottom: 16px;
+}
+
+.detail-page .contact-name {
+  font-size: 32px;
+  margin-bottom: 37px;
+}
+
+.detail-page .contact-phone {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.detail-page .contact-phone a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.detail-page .contact-phone .number {
+  font-size: 25px;
+}
+
+.detail-page .contact-phone .call-btn {
+  max-width: 122px;
+}
+
+.detail-page .birthday {
+  padding: 66px 0 45px;
+  font-size: 25px;
+}
+
+.detail-page .birthday .remain {
+  font-size: 18px;
+  font-weight: 700;
+}

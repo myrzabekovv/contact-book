@@ -50,6 +50,9 @@ button:active {
   text-transform: uppercase;
   padding: 0 20px;
   border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .add-btn {
@@ -70,5 +73,21 @@ button:active {
 }
 
 .primary-btn:hover, .add-btn:hover {
-  background-color: #5d95ff;
+  background-color: #336ad0;
+}
+
+.delete-btn {
+  background-color: #E86058;
+}
+
+.delete-btn:hover {
+  background-color: #d53f37;
+}
+
+.call-btn {
+  background-color: #6ADA42;
+}
+
+.call-btn:hover {
+  background-color: #51b92a;
 }
