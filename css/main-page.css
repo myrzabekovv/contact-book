@@ -7,8 +7,6 @@ li.contact-item > a {
   display: block;
   background-color: #fff;
   border-radius: 8px;
-  text-decoration: none;
-  color: inherit;
   padding: 16px 25px;
   margin-bottom: 22px;
   cursor: pointer;

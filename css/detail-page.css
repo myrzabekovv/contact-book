@@ -18,11 +18,6 @@
   margin-bottom: 16px;
 }
 
-.detail-page .contact-phone a {
-  text-decoration: none;
-  color: inherit;
-}
-
 .detail-page .contact-phone .number {
   font-size: 25px;
 }
